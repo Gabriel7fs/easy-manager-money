@@ -31,7 +31,7 @@ O projeto como um todo faz uso das seguintes tecnologias:
 * **Front-end Web Angular:** responsável pela interface web do sistema, oferecendo uma experiência moderna, responsiva e acessível.
 * **Front-end Mobile Flutter:** responsável pelo aplicativo mobile, permitindo uma experiência multiplataforma para Android e futuramente outras plataformas.
 * **Back-end Java:** responsável pelas regras de negócio, processamento das informações financeiras, integrações e comunicação com banco de dados.
-* * **Back-end Spring Boot:** framework para construir aplicações Java de forma rápida.
+* **Back-end Spring Boot:** framework para construir aplicações Java de forma rápida.
 * **Git e GitHub:** utilizados para versionamento de código, colaboração e gerenciamento dos repositórios.
 * **Banco de dados PostgreSQL:** sistema de banco de dados relacional avançado e open-source, utilizado no projeto para armazenamento e gerenciamento de dados.
 
