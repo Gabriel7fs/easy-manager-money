@@ -1,6 +1,6 @@
-# Easy Manager Money - Controle Financeiro
+# Easy Finance Manager - Controle Financeiro
 
-Este repositório tem como objetivo centralizar a documentação do projeto **Easy Manager Money - Controle Financeiro**.  
+Este repositório tem como objetivo centralizar a documentação do projeto **Easy Finance Manager - Controle Financeiro**.  
 O sistema foi idealizado para oferecer uma forma mais prática, rápida e acessível de organizar a vida financeira, sem a necessidade de utilizar planilhas.
 
 A documentação deste repositório reúne informações sobre arquitetura, funcionalidades, estrutura do sistema, organização dos módulos e materiais de apoio para o desenvolvimento do projeto.
